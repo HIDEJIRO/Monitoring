@@ -1,1 +1,5 @@
 # Monitoring
+
+ADXL345
+BME680
+TSL2561
